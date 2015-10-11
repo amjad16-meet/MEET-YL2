@@ -1,0 +1,42 @@
+<html>
+	<head>
+		<title> THIS IS A TITLE </title>
+		<style>
+		p.redesh{
+			color:red;
+		}
+		</style>
+
+	</head>
+	<body>
+
+
+		<h1 style="color:blue;"> HELLO </h1>
+		<h1 class="redesh"> hi </h1>
+		<p class="redesh"> gfhjhjjh </p>
+		<img src="https://www.google.co.il/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0CAcQjRxqFQoTCKT0_fDousgCFUzWFAodJAIMPw&url=https%3A%2F%2Fhe.wikipedia.org%2Fwiki%2F%25D7%25A7%25D7%2595%25D7%25A4%25D7%2599%25D7%259D&psig=AFQjCNHD5bphWYEIdSLtG62WjklSQmMdmw&ust=1444666672832809"/>
+
+		<a href="https://www.google.co.il/?gws_rd=ssl#q=hippo+clipart"> click me for more monkeys </a>
+
+			<ul>
+				<li>orange</li>
+				<li>apple</li>
+			</ul>
+
+			<ol>
+				<li>orange</li>
+				<li>apple</li>
+			</ol>
+
+
+			<form>
+				<input type="text">
+				<input type="radio">
+				<input type="submit" value="log in">
+			</form>
+
+	</body>
+
+
+
+</html>
