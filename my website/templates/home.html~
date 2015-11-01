@@ -1,0 +1,32 @@
+<html>
+
+<head>
+
+<title> HOME PAGE </title>
+
+<link rel="stylesheet" type="text/css" href="../static/amjad.css">
+</head>
+
+
+<body>
+
+<h1 style="color:red;"> HELLO WORLD </h1>
+
+<p> name : Amjad Hanini </p>
+<p> age : 16 </p>
+<p> live in : Palestine </p> <br><br>
+
+
+
+
+<a href="../static/aboutme.html"> click here for more informations  </a> <br> <br>
+
+<a href="../static/contactme.html"> click here if you want to contact me </a>
+
+
+
+
+
+</body>
+
+</html>
